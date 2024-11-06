@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Sofi/Documents/Unreal Projects/Parcial1_Program/Content/Ejercicio_Parcial1.umap",
+				"C:/Users/Sofi/Documents/Unreal Projects/Parcial1_Program/Content/BP_Personaje.uasset",
+				"C:/Users/Sofi/Documents/Unreal Projects/Parcial1_Program/Content/BP_Enemigo.uasset",
+				"C:/Users/Sofi/Documents/Unreal Projects/Parcial1_Program/Content/BP_Bala.uasset"
+			]
+		}
+	]
+}
